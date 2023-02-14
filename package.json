@@ -17,5 +17,14 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "uuid": "^8.3.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatianaNaumova5/paysis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TatianaNaumova5/paysis/issues"
+  },
+  "homepage": "https://github.com/TatianaNaumova5/paysis#readme"
 }
